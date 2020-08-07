@@ -3,7 +3,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonada por resolver problemas utilizando a programação.
-Sou System Analyst :computer:
+Sou Systems Analyst :computer:
 
  :rocket:  &nbsp; Estou trabalhando como terceirizada na **Petrobras**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
